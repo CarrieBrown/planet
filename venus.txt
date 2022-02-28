@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Venus is well suited for our base.
 
 This is my edit.
-=======
-Venus is well suited for our base
-It is close and not made of gas
->>>>>>> ea0d5e1e0c1cc9351515ea84cf3028a0c9d130ac
+Behnam changed the
