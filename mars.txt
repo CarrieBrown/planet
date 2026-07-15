@@ -4,3 +4,7 @@ But the Mummy will appreciate the lack of humidity
 An ill-considered change
 Now we can collaborate with friends through GitHub
 Carrie is a great instructor!
+
+
+New Details Identified:
+ - Weather on Mars is way too hot.
